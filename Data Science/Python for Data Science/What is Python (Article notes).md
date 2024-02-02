@@ -1,7 +1,5 @@
 # What is Python? (Article)
 
----
-
 Python is a general proposing language able to create multiple applications. Some highlights:
 
 - Interpreted language, so does not need compilation process. In python case, the interpretation happen in virtual machines, transforming python code in binary
